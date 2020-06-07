@@ -1,0 +1,38 @@
+.container {
+    max-width: 400px;
+    height: 600px;
+    background-color: rgb(136, 233, 193);
+    padding: 100px, 50px, 100px, 50px;
+    text-align: center;
+    font-family: cursive;
+}
+
+h1 {
+    padding-top: 30px;
+    margin-bottom: 20px;
+
+.input{
+    width: 90%;
+    height: 30px;
+}
+
+button {
+    margin-left: 0;
+    height: 30px;
+    width: 30px;
+    background-color: hotpink;
+}
+
+
+li {
+    text-align: left;
+    heigth: 30px;
+    width: 70%;
+    margin-bottom: 0;
+    padding: 0;
+    background-color: lavender;
+    border: solid; 1px; grey;
+    margin-bottom:
+}
+
+
